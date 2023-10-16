@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">EMI Calculator </string>
+    <string name="name1">Loan EMI &#10;Calculator</string>
+    <string name="fin_cal">FINANCE Calculator  </string>
+    <string name="emi_cal">EMI Calculator  </string>
+    <string name="FD_cal">FD Calculator  </string>
+    <string name="currency_cal">Currency Conversion  </string>
+    <string name="RD_cal">RD Calculator  </string>
+    <string name="PPF_cal">PPF Calculator  </string>
+    <string name="bnk_find">Banks Finder  </string>
+    <string name="fd">FD &#10;Calculator</string>
+    <string name="rd">RD &#10;Calculator</string>
+    <string name="ppf">PPF &#10;Calculator</string>
+    <string name="currency">CURRENCY &#10;Calculator</string>
+    <string name="EMI_Calc">EMI Calculator</string>
+    <string name="principal">Principal Amount : </string>
+    <string name="Amount_currency">Amount : </string>
+    <string name="Amt_currency">Currency Of The Amount : </string>
+    <string name="investment">Investment Amount : </string>
+    <string name="intrest">Interest : </string>
+    <string name="fd_interest">Expected Rate Of Interest : </string>
+    <string name="loan">Loan Tenure : </string>
+    <string name="fd_loan">Tenure : </string>
+
+
+    <!--    <string name="second_number">Second Number</string>-->
+    <!--    <string name="second_number">Second Number</string>-->
+
+
+</resources>
